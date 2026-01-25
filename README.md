@@ -32,7 +32,7 @@ I'm <strong>Moutaz Jaber</strong>, a Software Engineering student at <strong>KFU
 
 <h3 align="left">🛠 Languages & Tools</h3>
 
-<div align="left">
+<div align="center">
   <!-- Core programming languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img width="12" />
@@ -62,7 +62,7 @@ I'm <strong>Moutaz Jaber</strong>, a Software Engineering student at <strong>KFU
   <img width="12" />
 
   <!-- Cloud Platforms -->
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  <img src= "https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height ="40" alt="AWS" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
   <img width="12" />
@@ -81,6 +81,7 @@ I'm <strong>Moutaz Jaber</strong>, a Software Engineering student at <strong>KFU
 <h3 align="left">📌 Certifications</h3>
 
 <ul align="left">
+  <li>INE eCTHPv3 - Certified Threat Hunting Professional </li>
   <li>AWS Certified Cloud Practitioner</li>
   <li>INE eWPTXv3 – Web Application Penetration Tester eXtreme</li>
   <li>INE eJPTv2 – Junior Penetration Tester</li>
