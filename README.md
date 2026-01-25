@@ -8,13 +8,7 @@
   <a href="https://linkedin.com/in/moutazjaber">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-  </a>
-</div>
+  
 
 ###
 
@@ -76,7 +70,7 @@ I'm <strong>Moutaz Jaber</strong>, a Software Engineering student at <strong>KFU
   <img width="12" />
 
   <!-- Cloud Platforms -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
   <img width="12" />
@@ -84,9 +78,10 @@ I'm <strong>Moutaz Jaber</strong>, a Software Engineering student at <strong>KFU
   <img width="12" />
 
   <!-- Security Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/kali-original.svg" height="40" alt="Kali Linux" />
-  <img width="12" />
-  <img src="https://img.icons8.com/color/48/burp-suite.png" height="40" alt="Burp Suite" />
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" alt="Kali Linux" width="40"/>
+  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" alt="Burp Suite" width="40"/>
+</p>
+
 </div>
 
 ###
@@ -106,6 +101,4 @@ I'm <strong>Moutaz Jaber</strong>, a Software Engineering student at <strong>KFU
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=moutazjaber&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=jsploitt&theme=dark&hide_border=true)
