@@ -10,14 +10,6 @@
   </a>
   
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=moutazjaber.moutazjaber" />
-</div>
-
-###
-
 <h1 align="center">hey there 👋</h1>
 
 ###
@@ -95,10 +87,3 @@ I'm <strong>Moutaz Jaber</strong>, a Software Engineering student at <strong>KFU
   <li>Google Cloud Digital Leader</li>
 </ul>
 
-###
-
-<h3 align="left">🔥 My Stats</h3>
-
-###
-
-![GitHub Streak](https://streak-stats.demolab.com?user=jsploitt&theme=dark&hide_border=true)
