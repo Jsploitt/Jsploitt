@@ -81,10 +81,11 @@ I'm <strong>Moutaz Jaber</strong>, a Software Engineering student at <strong>KFU
 <h3 align="left">📌 Certifications</h3>
 
 <ul align="left">
-  <li>INE eCTHPv3 - Certified Threat Hunting Professional </li>
-  <li>AWS Certified Cloud Practitioner</li>
   <li>INE eWPTXv3 – Web Application Penetration Tester eXtreme</li>
-  <li>INE eJPTv2 – Junior Penetration Tester</li>
+  <li>INE eCTHPv3 - Certified Threat Hunting Professional </li>
+  <li>INE eCIR – Certified Incident Responder </li>
+  <li>AWS Certified Cloud Practitioner</li>
   <li>Google Cloud Digital Leader</li>
+  <li>INE eJPTv2 – Junior Penetration Tester</li>
 </ul>
 
